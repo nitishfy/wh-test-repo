@@ -1,3 +1,3 @@
 # README
 
-scrap test repo
+just testing
